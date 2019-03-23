@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calling</string>
+
+
+    <string name="host_name">clientapi.sinch.com</string>
+    <string name="key">dabeffdb-4db4-4f1d-8171-51c27d587f33</string>
+    <string name="secret_key">2gm1zwm5LkSnTCMPe7OnKw==</string>
+</resources>
